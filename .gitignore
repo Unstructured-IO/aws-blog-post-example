@@ -1,0 +1,20 @@
+/.venv/
+/.env
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for VSCode
+.history/
+
+# Built VSCode Extensions
+*.vsix
+
+.DS_Store
